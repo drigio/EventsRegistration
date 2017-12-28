@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">EventRegistrations</string>
+    <string-array name="events">
+        //CIVIL 1-5
+        <item>C-quiz - VINIRMAN</item>
+        <item>Smart Crete - VINIRMAN</item>
+        <item>Cad War - VINIRMAN</item>
+        <item>Model Making - VINIRMAN</item>
+        <item>Smart Tower - VINIRMAN</item>
+        //MECH 6-10
+        <item>Aqualumpics - MECHNOVA</item>
+        <item>Mechtrix - MECHNOVA</item>
+        <item>Paper Presentation - MECHNOVA</item>
+        <item>Monster Arena - MECHNOVA</item>
+        <item>Paintball - MECHNOVA</item>
+        //ENTC 11-16
+        <item>Quiz - TEKTRONIX</item>
+        <item>Procode - TEKTRONIX</item>
+        <item>Mini Militia - TEKTRONIX</item>
+        <item>Paper Presentation - TEKTRONIX</item>
+        <item>Circuit Mania - TEKTRONIX</item>
+        <item>Art Gallery - TEKTRONIX</item>
+        //ELECT 17-18C
+        <item>Poster Making - VIDYUTAM</item>
+        <item>Paper Presentation - VIDYUTAM</item>
+        //DDGM 19-24
+        <item>Fashion Illustration - VASTRAM</item>
+        <item>Fashion Draping - VASTRAM</item>
+        <item>Paper Presentation - VASTRAM</item>
+        <item>Poster Making - VASTRAM</item>
+        <item>Trash To Treasure - VASTRAM</item>
+        <item>Hunger Challenge - VASTRAM</item>
+        //META 25-27
+        <item>Paper Presentation - SUVARNAM</item>
+        <item>Fact And Furious - SUVARNAM</item>
+        <item>Shutter Up - SUVARNAM</item>
+        //COMEIT 28-33
+        <item>Counter Strike - GEEKNATION</item>
+        <item>Paper Presentation - GEEKNATION</item>
+        <item>Clash of Code - GEEKNATION</item>
+        <item>Webber - GEEKNATION</item>
+        <item>Project Presentation - GEEKNATION</item>
+        <item>Hotkeys - GEEKNATION</item>
+    </string-array>
+
+    <string name="aboutMe">
+        My name is Gaurav Kondhare.\n
+        I\'m an aspiring student and I believe in continuous learning.\n
+        1 part PHP, 1 part Android, 2 parts JAVA, 3 parts HTML/CSS/JS and 2 parts Geek. \n
+        Too many parts?
+    </string>
+
+    <string name="contact">
+        For Bugs/Queries :\n
+    </string>
+
+</resources>

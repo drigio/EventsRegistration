@@ -1,0 +1,12 @@
+.stats {
+    font-size: 1000%;
+    text-align: center;
+    background-color: #3498db;
+}
+
+.stats-content {
+    font-size: 280%;
+    text-align: center;
+    margin-top: 0;
+    line-height: 100%;
+}
