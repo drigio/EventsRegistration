@@ -1,9 +1,0 @@
-A bit late, but perhaps someone will find it useful.
-
-Links that fix the problem (you must be logged into google account):
-
-https://security.google.com/settings/security/activity?hl=en&pli=1
-
-https://www.google.com/settings/u/1/security/lesssecureapps
-
-https://accounts.google.com/b/0/DisplayUnlockCaptcha
